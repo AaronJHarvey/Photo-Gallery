@@ -6,3 +6,9 @@
 	width: 25%;
 	height: 300px;
 }
+
+body {
+	margin: none;
+	font-family: Arial;
+	background-color: #ebe7e7;
+}
